@@ -28,4 +28,4 @@ Este repositório foi criado como um projeto de teste para aprender como criar e
 
 ## 👨‍💻 Autor
 
-Projeto criado por [Seu Nome].
+Projeto criado por [Rafael Camargo Gomes].
